@@ -1,3 +1,3 @@
 module gitlab.com/chulu3/chuludev
 
-go 1.15
+go 1.21
